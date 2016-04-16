@@ -1,4 +1,5 @@
 # no binaries
-*
-!./**/*.go
+**/*
+!*.go
+!**/*.go
 !.gitignore
